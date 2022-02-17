@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfChristmas.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE DOWN MISS образец 10000" x="4" y="4" width="379" height="364" frameX="-1" frameY="-36" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10001" x="385" y="4" width="380" height="400" frameX="-2" frameY="0" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10002" x="385" y="4" width="380" height="400" frameX="-2" frameY="0" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10003" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10004" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10005" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10006" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10007" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10008" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10009" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10010" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10011" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10012" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10013" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10014" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10015" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10016" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10017" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10018" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10019" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10020" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10021" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10022" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10023" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10024" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10025" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10026" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10027" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN MISS образец 10028" x="767" y="4" width="383" height="396" frameX="0" frameY="-4" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN образец 10000" x="4" y="4" width="379" height="364" frameX="-2" frameY="-5" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN образец 10001" x="4" y="4" width="379" height="364" frameX="-2" frameY="-5" frameWidth="383" frameHeight="400"/>
+	<SubTexture name="BF NOTE DOWN образец 10002" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10003" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10004" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10005" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10006" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10007" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10008" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10009" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10010" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10011" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10012" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10013" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10014" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10015" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10016" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10017" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10018" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10019" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10020" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10021" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10022" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10023" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10024" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10025" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10026" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10027" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10028" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE DOWN образец 10029" x="1152" y="4" width="377" height="369" frameX="0" frameY="0" frameWidth="381" frameHeight="369"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10000" x="1531" y="4" width="380" height="410" frameX="0" frameY="-26" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10001" x="4" y="416" width="370" height="433" frameX="-17" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10002" x="4" y="416" width="370" height="433" frameX="-17" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10003" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10004" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10005" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10006" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10007" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10008" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10009" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10010" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10011" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10012" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10013" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10014" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10015" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10016" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10017" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10018" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10019" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10020" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10021" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10022" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10023" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10024" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10025" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10026" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10027" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10028" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10029" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10030" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10031" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10032" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT MISS образец 10033" x="376" y="416" width="371" height="433" frameX="-15" frameY="0" frameWidth="387" frameHeight="436"/>
+	<SubTexture name="BF NOTE LEFT образец 10000" x="749" y="416" width="379" height="410" frameX="0" frameY="0" frameWidth="385" frameHeight="410"/>
+	<SubTexture name="BF NOTE LEFT образец 10001" x="749" y="416" width="379" height="410" frameX="0" frameY="0" frameWidth="385" frameHeight="410"/>
+	<SubTexture name="BF NOTE LEFT образец 10002" x="1130" y="416" width="375" height="408" frameX="-10" frameY="-2" frameWidth="385" frameHeight="410"/>
+	<SubTexture name="BF NOTE LEFT образец 10003" x="1130" y="416" width="375" height="408" frameX="-10" frameY="-2" frameWidth="385" frameHeight="410"/>
+	<SubTexture name="BF NOTE LEFT образец 10004" x="1130" y="416" width="375" height="408" frameX="-10" frameY="-2" frameWidth="385" frameHeight="410"/>
+	<SubTexture name="BF NOTE LEFT образец 10005" x="1130" y="416" width="375" height="408" frameX="-10" frameY="-2" frameWidth="385" frameHeight="410"/>
+	<SubTexture name="BF NOTE LEFT образец 10006" x="1130" y="416" width="375" height="408" frameX="-10" frameY="-2" frameWidth="385" frameHeight="410"/>
+	<SubTexture name="BF NOTE LEFT образец 10007" x="1130" y="416" width="375" height="408" frameX="-10" frameY="-2" frameWidth="385" frameHeight="410"/>
+	<SubTexture name="BF NOTE LEFT образец 10008" x="1130" y="416" width="375" height="408" frameX="-10" frameY="-2" frameWidth="385" frameHeight="410"/>
+	<SubTexture name="BF NOTE LEFT образец 10009" x="1130" y="416" width="375" height="408" frameX="-10" frameY="-2" frameWidth="385" frameHeight="410"/>
+	<SubTexture name="BF NOTE LEFT образец 10010" x="1130" y="416" width="375" height="408" frameX="-10" frameY="-2" frameWidth="385" frameHeight="410"/>
+	<SubTexture name="BF NOTE LEFT образец 10011" x="1130" y="416" width="375" height="408" frameX="-10" frameY="-2" frameWidth="385" frameHeight="410"/>
+	<SubTexture name="BF NOTE LEFT образец 10012" x="1130" y="416" width="375" height="408" frameX="-10" frameY="-2" frameWidth="385" frameHeight="410"/>
+	<SubTexture name="BF NOTE LEFT образец 10013" x="1130" y="416" width="375" height="408" frameX="-10" frameY="-2" frameWidth="385" frameHeight="410"/>
+	<SubTexture name="BF NOTE LEFT образец 10014" x="1130" y="416" width="375" height="408" frameX="-10" frameY="-2" frameWidth="385" frameHeight="410"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10000" x="1507" y="416" width="404" height="409" frameX="-13" frameY="-30" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10001" x="4" y="851" width="397" height="437" frameX="0" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10002" x="4" y="851" width="397" height="437" frameX="0" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10003" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10004" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10005" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10006" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10007" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10008" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10009" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10010" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10011" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10012" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10013" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10014" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10015" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10016" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10017" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10018" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10019" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10020" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10021" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10022" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10023" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10024" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10025" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10026" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10027" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10028" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10029" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10030" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10031" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10032" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10033" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10034" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10035" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10036" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10037" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10038" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10039" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10040" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10041" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10042" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10043" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10044" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT MISS образец 10045" x="403" y="851" width="401" height="437" frameX="-1" frameY="0" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT образец 10000" x="1507" y="416" width="404" height="409" frameX="-2" frameY="-2" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT образец 10001" x="1507" y="416" width="404" height="409" frameX="-2" frameY="-2" frameWidth="417" frameHeight="439"/>
+	<SubTexture name="BF NOTE RIGHT образец 10002" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10003" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10004" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10005" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10006" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10007" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10008" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10009" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10010" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10011" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10012" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10013" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10014" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10015" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10016" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10017" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10018" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10019" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10020" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10021" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10022" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10023" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10024" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10025" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10026" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10027" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10028" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10029" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10030" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10031" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10032" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10033" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10034" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10035" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10036" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10037" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10038" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10039" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10040" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10041" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10042" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10043" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10044" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10045" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10046" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10047" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10048" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10049" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10050" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10051" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10052" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10053" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10054" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10055" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10056" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10057" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10058" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10059" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10060" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE RIGHT образец 10061" x="806" y="851" width="403" height="411" frameX="0" frameY="0" frameWidth="405" frameHeight="411"/>
+	<SubTexture name="BF NOTE UP MISS образец 10000" x="1211" y="851" width="369" height="447" frameX="-12" frameY="0" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10001" x="1582" y="851" width="362" height="430" frameX="0" frameY="-13" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10002" x="1582" y="851" width="362" height="430" frameX="0" frameY="-13" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10003" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10004" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10005" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10006" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10007" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10008" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10009" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10010" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10011" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10012" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10013" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10014" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10015" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10016" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10017" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10018" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10019" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10020" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10021" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10022" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF NOTE UP MISS образец 10023" x="4" y="1300" width="358" height="433" frameX="-2" frameY="-10" frameWidth="381" frameHeight="447"/>
+	<SubTexture name="BF idle dance образец 10000" x="364" y="1300" width="406" height="396" frameX="-1" frameY="-21" frameWidth="411" frameHeight="417"/>
+	<SubTexture name="BF idle dance образец 10001" x="364" y="1300" width="406" height="396" frameX="-1" frameY="-21" frameWidth="411" frameHeight="417"/>
+	<SubTexture name="BF idle dance образец 10002" x="772" y="1300" width="408" height="398" frameX="0" frameY="-19" frameWidth="411" frameHeight="417"/>
+	<SubTexture name="BF idle dance образец 10003" x="772" y="1300" width="408" height="398" frameX="0" frameY="-19" frameWidth="411" frameHeight="417"/>
+	<SubTexture name="BF idle dance образец 10004" x="1182" y="1300" width="405" height="403" frameX="-3" frameY="-14" frameWidth="411" frameHeight="417"/>
+	<SubTexture name="BF idle dance образец 10005" x="1182" y="1300" width="405" height="403" frameX="-3" frameY="-14" frameWidth="411" frameHeight="417"/>
+	<SubTexture name="BF idle dance образец 10006" x="1589" y="1300" width="410" height="415" frameX="-1" frameY="-2" frameWidth="411" frameHeight="417"/>
+	<SubTexture name="BF idle dance образец 10007" x="1589" y="1300" width="410" height="415" frameX="-1" frameY="-2" frameWidth="411" frameHeight="417"/>
+	<SubTexture name="BF idle dance образец 10008" x="4" y="1735" width="408" height="417" frameX="-2" frameY="0" frameWidth="411" frameHeight="417"/>
+	<SubTexture name="BF idle dance образец 10009" x="4" y="1735" width="408" height="417" frameX="-2" frameY="0" frameWidth="411" frameHeight="417"/>
+	<SubTexture name="BF idle dance образец 10010" x="4" y="1735" width="408" height="417" frameX="-2" frameY="0" frameWidth="411" frameHeight="417"/>
+	<SubTexture name="BF idle dance образец 10011" x="4" y="1735" width="408" height="417" frameX="-2" frameY="0" frameWidth="411" frameHeight="417"/>
+	<SubTexture name="BF idle dance образец 10012" x="4" y="1735" width="408" height="417" frameX="-2" frameY="0" frameWidth="411" frameHeight="417"/>
+	<SubTexture name="BF idle dance образец 10013" x="4" y="1735" width="408" height="417" frameX="-2" frameY="0" frameWidth="411" frameHeight="417"/>
+</TextureAtlas>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg_COLD.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg_animn0000" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0001" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0002" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0003" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0004" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0005" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0006" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0007" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0008" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0009" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0010" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0011" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0012" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0013" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0014" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0015" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0016" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0017" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0018" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0019" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0020" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0021" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0022" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0023" x="4" y="4" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0024" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0025" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0026" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0027" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0028" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0029" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0030" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0031" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0032" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0033" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0034" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0035" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0036" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0037" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0038" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0039" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0040" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0041" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0042" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0043" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0044" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0045" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0046" x="4" y="1086" width="1921" height="1080"/>
+	<SubTexture name="bg_animn0047" x="4" y="1086" width="1921" height="1080"/>
+</TextureAtlas>

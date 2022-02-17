@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="20220216162008_2.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfDance0000" x="4" y="4" width="928" height="700"/>
+	<SubTexture name="gfDance0001" x="4" y="4" width="928" height="700"/>
+</TextureAtlas>

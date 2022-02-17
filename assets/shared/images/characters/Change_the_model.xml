@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Change_the_model.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Change_Box0000" x="4" y="4" width="513" height="361"/>
+	<SubTexture name="Change_Box0001" x="4" y="4" width="513" height="361"/>
+	<SubTexture name="Change_Box0002" x="519" y="4" width="513" height="361"/>
+	<SubTexture name="Change_Box0003" x="1034" y="4" width="513" height="361"/>
+	<SubTexture name="Change_Box0004" x="1034" y="4" width="513" height="361"/>
+	<SubTexture name="Change_Box0005" x="4" y="367" width="513" height="361"/>
+	<SubTexture name="Change_Box0006" x="4" y="367" width="513" height="361"/>
+	<SubTexture name="Change_Box0007" x="4" y="367" width="513" height="361"/>
+	<SubTexture name="Change_Box0008" x="4" y="367" width="513" height="361"/>
+	<SubTexture name="Change_Box0009" x="4" y="367" width="513" height="361"/>
+	<SubTexture name="Change_Box0010" x="4" y="367" width="513" height="361"/>
+	<SubTexture name="Change_Box0011" x="519" y="367" width="513" height="361"/>
+	<SubTexture name="Change_Box0012" x="519" y="367" width="513" height="361"/>
+	<SubTexture name="Change_Box0013" x="1034" y="367" width="513" height="361"/>
+	<SubTexture name="Change_Box0014" x="1034" y="367" width="513" height="361"/>
+	<SubTexture name="Change_Box0015" x="4" y="730" width="513" height="361"/>
+	<SubTexture name="Change_Box0016" x="1034" y="367" width="513" height="361"/>
+	<SubTexture name="Change_Box0017" x="1034" y="367" width="513" height="361"/>
+	<SubTexture name="Change_Box0018" x="1034" y="367" width="513" height="361"/>
+	<SubTexture name="Change_Box0019" x="1034" y="367" width="513" height="361"/>
+	<SubTexture name="Change_Box0020" x="1034" y="367" width="513" height="361"/>
+	<SubTexture name="Change_Box0021" x="519" y="730" width="513" height="361"/>
+	<SubTexture name="Change_Box0022" x="519" y="730" width="513" height="361"/>
+	<SubTexture name="Change_Box0023" x="1034" y="730" width="513" height="361"/>
+	<SubTexture name="Change_Box0024" x="4" y="730" width="513" height="361"/>
+	<SubTexture name="Change_Box0025" x="4" y="1093" width="513" height="361"/>
+	<SubTexture name="Change_Box0026" x="4" y="1093" width="513" height="361"/>
+	<SubTexture name="Change_Box0027" x="519" y="1093" width="513" height="361"/>
+	<SubTexture name="Change_Box0028" x="4" y="1093" width="513" height="361"/>
+	<SubTexture name="Change_Box0029" x="1034" y="1093" width="513" height="361"/>
+	<SubTexture name="Change_Box0030" x="1034" y="1093" width="513" height="361"/>
+	<SubTexture name="Change_Box0031" x="1034" y="1093" width="513" height="361"/>
+	<SubTexture name="Change_Box0032" x="4" y="1093" width="513" height="361"/>
+	<SubTexture name="Change_Box0033" x="519" y="730" width="513" height="361"/>
+	<SubTexture name="Change_Box0034" x="4" y="1093" width="513" height="361"/>
+	<SubTexture name="Change_Box0035" x="519" y="1093" width="513" height="361"/>
+	<SubTexture name="Change_Box0036" x="4" y="1456" width="513" height="361"/>
+	<SubTexture name="Change_Box0037" x="4" y="1093" width="513" height="361"/>
+	<SubTexture name="Change_Box0038" x="4" y="1093" width="513" height="361"/>
+	<SubTexture name="Change_Box0039" x="4" y="1093" width="513" height="361"/>
+	<SubTexture name="Change_Box0040" x="519" y="1456" width="513" height="361"/>
+	<SubTexture name="Change_Box0041" x="519" y="1456" width="513" height="361"/>
+	<SubTexture name="Change_Box0042" x="1034" y="1456" width="0" height="0" frameX="-363" frameY="-132" frameWidth="513" frameHeight="361"/>
+</TextureAtlas>

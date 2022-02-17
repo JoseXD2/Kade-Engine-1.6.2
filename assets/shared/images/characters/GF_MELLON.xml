@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_MELLON.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF_MELLON0000" x="4" y="4" width="321" height="221" pivotX="97.35" pivotY="-109.2" frameX="-6" frameY="-3" frameWidth="333" frameHeight="226"/>
+	<SubTexture name="GF_MELLON0001" x="329" y="4" width="318" height="226" frameX="-8" frameY="0" frameWidth="333" frameHeight="226"/>
+	<SubTexture name="GF_MELLON0002" x="651" y="4" width="313" height="226" frameX="-10" frameY="0" frameWidth="333" frameHeight="226"/>
+	<SubTexture name="GF_MELLON0003" x="4" y="234" width="317" height="226" frameX="-8" frameY="0" frameWidth="333" frameHeight="226"/>
+	<SubTexture name="GF_MELLON0004" x="4" y="234" width="317" height="226" frameX="-8" frameY="0" frameWidth="333" frameHeight="226"/>
+	<SubTexture name="GF_MELLON0005" x="325" y="234" width="324" height="226" frameX="-5" frameY="0" frameWidth="333" frameHeight="226"/>
+	<SubTexture name="GF_MELLON0006" x="653" y="234" width="331" height="226" frameX="-1" frameY="0" frameWidth="333" frameHeight="226"/>
+	<SubTexture name="GF_MELLON0007" x="4" y="464" width="333" height="225" frameX="0" frameY="-1" frameWidth="333" frameHeight="226"/>
+</TextureAtlas>

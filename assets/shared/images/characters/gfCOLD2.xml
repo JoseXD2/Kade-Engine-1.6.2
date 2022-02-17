@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfCOLD2.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfCOLD_left0000" x="4" y="4" width="483" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+	<SubTexture name="gfCOLD_left0001" x="4" y="4" width="483" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+	<SubTexture name="gfCOLD_left0002" x="489" y="4" width="487" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+	<SubTexture name="gfCOLD_left0003" x="978" y="4" width="488" height="829"/>
+	<SubTexture name="gfCOLD_left0004" x="978" y="4" width="488" height="829"/>
+	<SubTexture name="gfCOLD_left0005" x="978" y="4" width="488" height="829"/>
+	<SubTexture name="gfCOLD_left0006" x="1468" y="4" width="487" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+	<SubTexture name="gfCOLD_left0007" x="4" y="835" width="485" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+	<SubTexture name="gfCOLD_left0008" x="491" y="835" width="484" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+	<SubTexture name="gfCOLD_left0009" x="491" y="835" width="484" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+	<SubTexture name="gfCOLD_left0010" x="4" y="4" width="483" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+	<SubTexture name="gfCOLD_right0000" x="977" y="835" width="483" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+	<SubTexture name="gfCOLD_right0001" x="977" y="835" width="483" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+	<SubTexture name="gfCOLD_right0002" x="1462" y="835" width="486" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+	<SubTexture name="gfCOLD_right0003" x="4" y="1666" width="488" height="829"/>
+	<SubTexture name="gfCOLD_right0004" x="4" y="1666" width="488" height="829"/>
+	<SubTexture name="gfCOLD_right0005" x="4" y="1666" width="488" height="829"/>
+	<SubTexture name="gfCOLD_right0006" x="494" y="1666" width="486" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+	<SubTexture name="gfCOLD_right0007" x="982" y="1666" width="486" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+	<SubTexture name="gfCOLD_right0008" x="1470" y="1666" width="484" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+	<SubTexture name="gfCOLD_right0009" x="1470" y="1666" width="484" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+	<SubTexture name="gfCOLD_right0010" x="977" y="835" width="483" height="829" frameX="0" frameY="0" frameWidth="488" frameHeight="829"/>
+</TextureAtlas>

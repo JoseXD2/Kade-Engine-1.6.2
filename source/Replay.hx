@@ -1,6 +1,5 @@
-#if sys
-import sys.io.File;
-#end
+package;
+
 import Controls.Control;
 import flixel.FlxG;
 import openfl.events.IOErrorEvent;
@@ -90,11 +89,11 @@ class Replay
 
 	public function SaveReplay(notearray:Array<Dynamic>, judge:Array<String>, ana:Analysis)
 	{
-		#if sys
+		
 		var chartPath = PlayState.isSM ? PlayState.pathToSm + "/converted.json" : "";
-		#else
+		
 		var chartPath = "";
-		#end
+		
 		
 		var json = {
 			"songName": PlayState.SONG.song,
@@ -115,7 +114,7 @@ class Replay
 		
 		var time = Date.now().getTime();
 
-		#if sys
+		
 		File.saveContent("assets/replays/replay-" + PlayState.SONG.song + "-time" + time + ".kadeReplay", data);
 
 		path = "replay-" + PlayState.SONG.song + "-time" + time + ".kadeReplay"; // for score screen shit
@@ -123,23 +122,23 @@ class Replay
 		LoadFromJSON();
 
 		replay.ana = ana;
-		#end
+		
 	}
 
 	public function LoadFromJSON()
 	{
-		#if sys
-		trace('loading ' + Sys.getCwd() + 'assets/replays/' + path + ' replay...');
+		
+		trace('loading ' + Main + 'assets/replays/' + path + ' replay...');
 		try
 		{
-			var repl:ReplayJSON = cast Json.parse(File.getContent(Sys.getCwd() + "assets/replays/" + path));
+			var repl:ReplayJSON = cast Json.parse(Assets.getText(Main.path + "assets/replays/" + path));
 			replay = repl;
 		}
 		catch(e)
 		{
 			trace('failed!\n' + e.message);
 		}
-		#end
+		
 	}
 
 }

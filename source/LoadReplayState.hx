@@ -189,7 +189,7 @@ class LoadReplayState extends MusicBeatState
 				
 					if (PlayState.isSM)
 					{
-						poop = File.getContent(PlayState.rep.replay.chartPath);
+						poop = Assets.getText(PlayState.rep.replay.chartPath);
 						try
 							{
 						PlayState.sm = SMFile.loadFile(PlayState.pathToSm + "/" + StringTools.replace(PlayState.rep.replay.songName," ", "_") + ".sm");
